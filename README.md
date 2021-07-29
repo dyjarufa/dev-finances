@@ -4,7 +4,9 @@
 ### 🖥️ Desktop
 <img src="./assets/screenshot.png">
 
-
+ <br/>     
+ <br/>    
+<img src="./assets/screenshot-2.png">
 
 
 ## App
